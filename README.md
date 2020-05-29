@@ -1,2 +1,4 @@
 # Redacted-Public-Release-CC-PPMS-P2-v8.0-Build-PI-1-Apr-2020
 Repository containing the CIF submission for Community Care Provider Profile Management System Phase 2 v8.0, Build PI 1 rec Apr 2020.
+
+The Community Care (CC) Provider Profile Management System project is focused on the development of non-VA care provider directory for the CC community to be used by the multiple portfolios to maintain provider agreements, credentialing, and other non-VA provider information as well as allow for workflow and tracking. The PPMS will provide increased timeliness and quality service to Veterans by improving tracking of and enterprise wide accessibility to a comprehensive list of provider information for scheduling community care for Veterans.
